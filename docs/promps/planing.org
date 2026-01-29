@@ -1,0 +1,10 @@
+rust with pyo3
+alambic and sqlalchemist
+redis, redis as a queue too
+nostr
+fastapi
+react-native
+
+
+bulk operations for load all chats of a user
+normalized database

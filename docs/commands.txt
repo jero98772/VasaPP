@@ -1,0 +1,17 @@
+npx create-expo-app frontend --template blank
+npx expo install react-dom react-native-web
+npm install -g expo-cli
+npm install axios
+
+alembic init alambic
+# Core navigation packages
+npm install @react-navigation/native @react-navigation/native-stack
+
+# Required dependencies for React Navigation
+npm install react-native-screens react-native-safe-area-context
+
+# For gestures (optional but recommended)
+npm install react-native-gesture-handler
+
+# For web support (if using React Native Web)
+npm install react-native-web

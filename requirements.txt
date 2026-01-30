@@ -1,0 +1,12 @@
+fastapi
+pydantic
+uvicorn[standard]
+sqlalchemy
+alembic
+psycopg2-binary
+redis
+pydantic
+python-multipart==0.0.6
+python-jose[cryptography]==3.3.0
+passlib[bcrypt]==1.7.4
+python-dotenv==1.0.0
